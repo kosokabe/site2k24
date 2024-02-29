@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,43 +7,70 @@
     <title></title>
 </head>
 <body>
-    <h1> LISTA DE ATIVIDADES NA SEMANA.</h1>
-    
-    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 01/03</p>
-    
-    <img src="bara01.png" alt="logo do barão">
-    <img src="BARAO2.jpg" alt="foto do Barão">
-    <img src="NEWTON1.jpg" alt="logo do Newton">
-    <img src="NEWTON2.jpg" alt="foto do Newton">
-    
-    
+    <h1> LISTAS DE ATIVIDADES NA SEMANA</h1>
+    <hr>
+    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 30/02</p>
+    <!--
+    <img src="NEWTON1.jpg" alt="logo do newton">
+    -->
+    <ol start="2">
         <li>Segunda-feira</li>
-        <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
-    
-        <li>Terça-feira</li>
-        <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
-    
-        <li>Quarta-feira</li>
-        <a href="quarta.html" target="_blank">Horário de quarta-feira dia 27/02</a>
-        
-        <li>Quinta-feira</li>
-        <a href="quinta.html" target="_blank">Horário de quinta-feira dia 27/02</a>
-        
-        <li>Sexta-feira</li>
-        <a href="sexta.html" target="_blank">Horário de sexta-feira dia 27/02</a>
-        
-    </ol>
-    <h2> PARA VER TODOS OS ARQUIVOS</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS" target="_blank">Acesse o GitHub para pegar os exemplos feitos</a>
+        <ol>
+            <li>07:15 - 08:05 3D</li>
+            <li>08:05 - 08:55 H.A.</li>
+            <li>09:10 - 10:00   </li>
+            <li>10:00 - 10:15 --INTERVALO--</li>
+            <li>10:15 - 11:05 3E</li>
+            <li>11:05 - 11:55 3C</li>
+            <li>11:55 - 12:45 3D</li>
 
-    <h2> PARA BAIXAR ESSE CONTEUDO EM PDF</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS/blob/main/COINI.pdf" target="_blank"  download="COINI.pdf" type="aplication/pdf">
-        Baixe aqui seu PDF dos principais comandos.
-    </a>
-     <h2> PARA PUBLICAR O SITE</h2>
-    
-    <p> Rotinas para publicar o site.</p>
-    
+        </ol>
+        <li>Terça-feira</li>
+        <ol>
+            <li>07:15 - 08:05 2D - Informática</li>
+            <li>08:05 - 08:55 2C - Informática</li>
+            <li>09:10 - 10:00   </li>
+            <li>10:00 - 10:15 --INTERVALO--</li>
+            <li>10:15 - 11:05 H.A.</li>
+            <li>11:05 - 11:55 2D</li>
+            <li>11:55 - 12:45 2E</li>
+
+        </ol>
+        <li>Quarta-feira</li>
+        <ol>
+            <li>07:15 - 08:05 H.A.</li>
+            <li>08:05 - 08:55 2D</li>
+            <li>09:10 - 10:00   </li>
+            <li>10:00 - 10:15 --INTERVALO--</li>
+            <li>10:15 - 11:05 H.A.</li>
+            <li>11:05 - 11:55 3E</li>
+            <li>11:55 - 12:45 2D</li>
+
+        </ol>
+        <li>Quinta-feira</li>
+        <ol>
+            <li>07:15 - 08:05 2C</li>
+            <li>08:05 - 08:55 3D - Informática</li>
+            <li>09:10 - 10:00 2E  </li>
+            <li>10:00 - 10:15 --INTERVALO--</li>
+            <li>10:15 - 11:05 3D</li>
+            <li>11:05 - 11:55 H.A.</li>
+            <li>11:55 - 12:45 3C</li>
+
+        </ol>
+        <li>Sexta-feira</li>
+        <ol>
+            <li>07:15 - 08:05 MESTRADO</li>
+            <li>08:05 - 08:55 MESTRADO</li>
+            <li>09:10 - 10:00 MESTRADO  </li>
+            <li>10:00 - 10:15 MESTRADO</li>
+            <li>10:15 - 11:05 MESTRADO</li>
+            <li>11:05 - 11:55 MESTRADO</li>
+            <li>11:55 - 12:45 MESTRADO</li>
+
+        </ol>
+
+    </ol>
     
 </body>
 </html>
